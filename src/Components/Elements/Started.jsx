@@ -3,11 +3,11 @@ import React from "react";
 function Started() {
   return (
     <div>
-      <div class=" text-center">
+      <div class="container text-center">
         <div class="row">
         <div class="col-md-6">
 
-        <div className="text-start page1 ">
+        <div className="text-start page1 " data-aos="fade-up" >
 
             <p className=" font"><b style={{color:"#43403E"}}> The future <br /> of finance.</b> <br /> <b style={{color:"#DA312D"}}>Today.</b> </p>
             <button type="button" className="btn"><b> Get Started</b></button>

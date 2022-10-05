@@ -1,5 +1,5 @@
 .font {
-  font-size: 70px;
+  font-size: 4rem;
 }
 
 body {
@@ -30,7 +30,7 @@ body {
 
 .font1 {
   color: #43403e;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .images{
     display: flex;
@@ -38,11 +38,11 @@ body {
 }
 
 .font2 {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 video {
-  border-radius: 150px 0 0 0 !important;
+  border-radius: 120px 0 0 0 !important;
 }
 
 .empowered {
@@ -77,11 +77,11 @@ video {
 }
 
 .font5{
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #43403e;
 }
 .font6{
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 .finance{

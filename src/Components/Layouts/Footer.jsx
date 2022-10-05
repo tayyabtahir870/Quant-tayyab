@@ -81,29 +81,6 @@ function Footer() {
             </ul>
           </div>
           <hr />
-
-          <div class="container text-center">
-            <div class="row">
-                
-    
-              <div className="col mt-4 mb-5 privacy text-start">
-              <img src="https://statics.ambcrypto.com/wp-content/uploads/2021/09/Quant-network.jpg" alt="" width={150} />
-              <p>© 2022 Quant Network Limited. All rights reserved.</p>
-
-
-              </div>
-              <div class="col mt-5  ">
-                <a href="/" className="privacy fw-bold">Privacy policy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="/" className="privacy fw-bold">Terms of use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <AiFillTwitterCircle size={30}/>
-                <AiFillLinkedin  size={30}/>
-
-              </div>
-
-              
-             
-            </div>
-          </div>
         </div>
       </div>
     </div>
