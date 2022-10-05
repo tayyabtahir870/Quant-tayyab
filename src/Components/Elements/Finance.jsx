@@ -5,7 +5,7 @@ function Finance() {
     <div>
       <div>
         <div className="finance">
-          <h1 className="font3 text-center" data-aos="zoom-in">
+          <h1 className="font3 text-center" data-aos="fade-up">
             <b>
               {" "}
               The future of finance. Today.
@@ -14,7 +14,7 @@ function Finance() {
             </b>{" "}
           </h1>
           
-          <button type="button" className="btn btn1 " data-aos="zoom-in">
+          <button type="button" className="btn btn1 " data-aos="fade-up">
             <b>Get started</b>
           </button>
         </div>

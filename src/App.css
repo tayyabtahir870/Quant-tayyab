@@ -6,8 +6,6 @@ body {
   background-color: #ffffff;
 }
 
-
-
 .footer {
   display: flex;
   justify-content: space-between;
@@ -32,9 +30,9 @@ body {
   color: #43403e;
   font-size: 2rem;
 }
-.images{
-    display: flex;
-    align-items: center;
+.images {
+  display: flex;
+  align-items: center;
 }
 
 .font2 {
@@ -76,16 +74,16 @@ video {
   flex-direction: column;
 }
 
-.font5{
-    font-size: 2rem;
-    color: #43403e;
+.font5 {
+  font-size: 2rem;
+  color: #43403e;
 }
-.font6{
-    font-size: 1rem;
+.font6 {
+  font-size: 1rem;
 }
 
-.finance{
-    display: flex;
+.finance {
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -97,15 +95,27 @@ video {
   height: 500px;
 }
 
-.font7{
-    font-size: 1.5rem;
-    color: #43403e;
+.font7 {
+  font-size: 1.5rem;
+  color: #43403e;
 }
 
-.fontt{
-    color: #F37749;
+.fontt {
+  color: #f37749;
 }
 
-.fonnt{
-    background-color: #F15A22;
+.fonnt {
+  background-color: #f15a22;
+}
+
+.pic{
+  background-image: url("https://quant.network/assets/uploads/2022/09/Sibos-guide-mockup-2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cardpic{
+  margin-left: auto !important;
+  right: 0 !important;
+
 }

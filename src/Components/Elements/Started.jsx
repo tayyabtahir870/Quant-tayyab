@@ -3,7 +3,7 @@ import React from "react";
 function Started() {
   return (
     <div>
-      <div class="container text-center">
+      <div class="container-fluid text-center">
         <div class="row">
         <div class="col-md-6">
 

@@ -1,6 +1,7 @@
 import './App.css';
 import Started from './Components/Elements/Started';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle';
 import Header from './Components/Layouts/Header';
 import Footer from './Components/Layouts/Footer';
 import Talk from './Components/Elements/Talk';
