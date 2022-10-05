@@ -10,14 +10,14 @@ function Designed() {
         <div class="row">
           <div class="col-md-6 col-12 images ">
             <div className="text-start  ">
-              <p className=" font1 ">
+              <p className=" font1 " data-aos="fade-down-left">
                 <b> Designed for the future</b>{" "}
               </p>{" "}
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <p className=" font2">
+              <p className=" font2" data-aos="fade-down-left">
               With our blockchain-agnostic approach, your existing infrastructure investments are protected. And the door is open to future cross-platform applications.
               </p>
-              <button type="button" className="btn ">
+              <button type="button" className="btn " data-aos="fade-down-left">
                 <b> Find out more</b>
               </button>
             </div>
@@ -25,7 +25,7 @@ function Designed() {
 
           <div class="col-md-6 col-12 fluid images">
             <img
-              className="image-fluid"
+              className="image-fluid" data-aos="fade-down-left"
               src="Assests/window.svg"
               alt=""
               width="90%"

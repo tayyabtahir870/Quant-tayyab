@@ -3,9 +3,9 @@ import React from "react";
 function Financial() {
   return (
     <div>
-      <div class="container text-center mt-5 mb-5 ">
+      <div class="container text-center mt-5 mb-5 " data-aos="flip-right">
         <div class="row">
-          <div class="col text-start ">
+          <div class="col text-start " >
             <h3>Financial institutions</h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <p>
               Banks, investment firms, <br /> and other financial institutions,

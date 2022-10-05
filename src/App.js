@@ -12,10 +12,9 @@ import Enterprises from './Components/Elements/Enterprises';
 import Designed from './Components/Elements/Designed';
 import Finance from './Components/Elements/Finance';
 import Explore from './Components/Elements/Explore';
-import Footer2 from './Components/Layouts/Footer2';
 import AOS from 'aos';
 import 'aos/dist/aos.css'; 
-AOS.init({duration:500});
+AOS.init({duration:1000});
 
 
 
@@ -34,7 +33,7 @@ function App() {
      <Designed/>
      <Finance/>
      <Footer/>
-     <Footer2/>
+   
     </>
   );
 }
